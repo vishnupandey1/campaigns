@@ -58,7 +58,9 @@ const CampaignPage = () => {
             items = doc.data();
           });
           setLoader(false);
-          setCampaigns(items?.data || []);
+          let sortedArr = items?.data || [];
+          sortedArr = sortedArr.sort((a, b) => a.created_on - b.created_on);
+          setCampaigns(sortedArr || []);
         });
     }
     fetchData();
