@@ -1,0 +1,23 @@
+{
+  "manageCampaign": "Manage Campaigns",
+  "upcomingCmp" : "Upcoming Campaigns",
+  "liveCmp": "Live Campaigns",
+  "pastCmp": "Past Campaigns",
+  "date": "DATE",
+  "cmp": "CAMPAIGN",
+  "view": "VIEW",
+  "action": "ACTION",
+  "viewPrice": "View Pricing",
+  "csv": "CSV",
+  "report": "Report",
+  "schAgain": "Schedule Again",
+  "chooseLanguage": "Choose Language",
+  "english": "English",
+  "german": "German",
+  "close": "Close",
+  "pricing": "Pricing",
+  "week": "Week",
+  "month": "Month",
+  "months": "Months",
+  "year": "Year"
+}

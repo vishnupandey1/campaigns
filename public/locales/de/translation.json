@@ -1,0 +1,23 @@
+{
+  "manageCampaign": "Kampagnen verwalten",
+  "upcomingCmp" : "Kommende Kampagnen",
+  "liveCmp": "Live-Kampagnen",
+  "pastCmp": "Vergangene Kampagnen",
+  "date": "DATUM",
+  "cmp": "KAMPAGNE",
+  "view": "AUSSICHT",
+  "action": "AKTION",
+  "viewPrice": "Preise anzeigen",
+  "csv": "CSV",
+  "report": "Bericht",
+  "schAgain": "Planen Sie erneut",
+  "chooseLanguage": "Sprache wählen",
+  "english": "Englisch",
+  "german": "Deutsche",
+  "close": "schließen",
+  "pricing": "Preisgestaltung",
+  "week": "Woche",
+  "month": "Monat",
+  "months": "Monate",
+  "year": "Jahr"
+}
