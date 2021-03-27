@@ -41,10 +41,12 @@ export const theme = () => {
   });
 };
 
-export default props => {
+const MUITheme = props => {
   return (
     <MuiThemeProvider theme={theme()}>
         {props.children}
     </MuiThemeProvider>
   );
 };
+
+export default MUITheme

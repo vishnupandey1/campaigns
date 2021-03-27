@@ -1,9 +1,10 @@
 # Bluestack Campaigns
 This is a modern, responsive campaign list.
 
-Check demo at: 
+Check demo at: https://campaigns-list.netlify.app/
 ## Installation
 
+    $ https://github.com/vishnupandey1/campaigns.git
     $ cd campaigns
     $ npm install
 
